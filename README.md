@@ -1,0 +1,1 @@
+At one of the workshops of the Mexico SIAM (Society for Industrial and Applied Mathematics) convention in 2022, I learned how to use TensorFlow API and Keras library in Python to train a sample in MNIST-fashion by Zalando.
