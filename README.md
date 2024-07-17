@@ -1,5 +1,5 @@
 ## MNIST-Fashion Classification with TensorFlow and Keras
-At one of the workshops of the Mexico SIAM (Society for Industrial and Applied Mathematics) convention in 2022, I learned how to use TensorFlow API and Keras library in Python to train a sample in MNIST-fashion by Zalando. 
+At one of the workshops of the Mexico SIAM (Society for Industrial and Applied Mathematics) convention in 2022, I learned how to use TensorFlow API and Keras library in Python to train a sample in MNIST-fashion by Zalando. This workshop was imparted by Prof. Miguel Angel Pérez León.
 
 ### Dataset content
 Some specifics of this dataset are listed as follows:
